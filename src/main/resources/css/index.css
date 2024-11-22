@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, sans-serif;
+    background-color: rgb(235, 227, 227);
+}
+
+.container{
+    max-width: 800px;
+    margin: auto;
+    padding: 1rem;
+}
